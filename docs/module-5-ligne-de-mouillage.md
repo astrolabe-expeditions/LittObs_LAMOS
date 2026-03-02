@@ -1,7 +1,3 @@
----
-description: Page en construction...
----
-
 # Module 5 : Ligne de mouillage
 
 ## Matériel
@@ -19,3 +15,13 @@ description: Page en construction...
 
 * Coupe cordage
 * Briquet tempête
+
+
+
+La ligne de mouillage est fixée d’une part à la cadène plastique en dessous du LAMOS et d’autre part au lest au fond de l’eau.
+
+Le lest se compose d’une ancre plate de 12kg et d’un poid en fonte de 10kg reliés entre eux par un bout d’environ 50cm. Cela permet à l’ancre de bien accrocher le fond et de ne pas remonter vers le haut.
+
+Le calcul de longueur du bout principal se fait en fonction de la profondeur du point étudié :
+
+{% embed url="https://cedriccoursonopensourceoceanography.notion.site/Longueur-de-la-ligne-de-mouillage-e7bfb4522f3942a999d4b95d84b2f870?source=copy_link" %}
