@@ -2,7 +2,7 @@
 
 ## Présentation :&#x20;
 
-Le LAMOS (LArgeur pour MOuillage Sous-marin) est un dispositif qui permet de larguer \~15m de bout à une date et heure choisie au moment de la mise à l’eau. Un crochet largue alors le bout qui se déroule et remonte à la surface grâce à un flotteur.&#x20;
+Le LAMOS (LArgeur pour MOuillage Sous-marin) est un dispositif qui permet de larguer \~15m de bout à une date et heure choisie au moment de la mise à l’eau. Une goupille largue alors le bout qui se déroule et remonte à la surface grâce à un flotteur.&#x20;
 
 <div><figure><img src=".gitbook/assets/Observatoires LittObs.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_20250911_132129.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -10,7 +10,7 @@ Actuellement le système de largage est un dispositif temporel qui se programme 
 
 <figure><img src=".gitbook/assets/IMG_20250528_114345.jpg" alt=""><figcaption></figcaption></figure>
 
-L’ensemble est réalisé grâce à la découpe laser et l’impression 3D. Les grandes plaques du fond et du couvercle sont en plexiglass épais et les parois et mécanismes sont imprimés en PETG ou en ASA. Le caisson est entièrement fermé et dans le noir pour limiter le fouling. Il est possible de peindre intérieur et extérieur avec une peinture antifouling au silicone. L’ensemble à été testé avec une charge de plus de 50 kg dans l’air, avec des efforts (poids, à coup, mouvement, choc) sans casser. La date et l’heure de largage se programment en Bluetooth à l’aide d’une application.&#x20;
+L’ensemble est réalisé grâce à la découpe laser et l’impression 3D. Les grandes plaques du fond et du couvercle sont en plexiglass épais et les parois et mécanismes sont imprimés en PETG ou en ASA. Le caisson est entièrement fermé et dans le noir pour limiter le fouling. Il est possible de peindre intérieur et extérieur avec une peinture antifouling au silicone. L’ensemble à été testé avec une charge de plus de 50 kg dans l’air, avec des efforts (poids, accoup, mouvement, choc) sans casser. La date et l’heure de largage se programment en Bluetooth à l’aide d’une application.&#x20;
 
 \
 Matériel et outils :&#x20;

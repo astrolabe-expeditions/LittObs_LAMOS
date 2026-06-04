@@ -100,10 +100,10 @@ Si les plaques ne se positionnent pas bien face aux inserts, créez un peu de je
           <figure><img src=".gitbook/assets/WhatsApp Image 2025-09-25 at 19.36.06 (1) (1).jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
 
-  * Le porte goupille (7) à l’aide de 4 grandes vis M5 et 4 écrous. Puis glisser la goupille (13).
-  * L'ensemble de l'enrouleur comprenant les fixation gauche et droites (5a et 5b) ainsi que la bobine et la drisse (6)
-  * Le mousqueton (9) à l’aide de 4 grandes vis M5 et 4 écrous.
-* Sur l’autre face de la paroi plexiglas (18), fixer les pièces 8a et 8b avec des 4 vis M4 de 25mm
+  * Le porte goupille (7) à l’aide de 4 grandes vis M5 et 4 écrous et rondelles. Puis glisser la goupille (13).
+  * L'ensemble de l'enrouleur comprenant les fixation gauche et droites (5a et 5b) ainsi que la bobine et la drisse (6) avec 4 grandes vis M5 4 écrous et rondelles.
+  * Le mousqueton (9) avec 4 vis M4 de 25mm et 4 écrous et rondelles.
+* Sur l’autre face de la paroi plexiglas (18), fixer les pièces 8a et 8b avec des 4 vis M4 de 25mm et 4 écrous et rondelles.&#x20;
 
 <div><figure><img src=".gitbook/assets/WhatsApp Image 2025-10-08 at 18.09.49.jpeg.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/WhatsApp Image 2025-09-25 at 19.36.00.jpeg.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -111,7 +111,7 @@ Si les plaques ne se positionnent pas bien face aux inserts, créez un peu de je
 
 ## **Étape 6 : Assembler l'ensemble**
 
-Visser la pièce 18 avec les murs 01, 02,03 et 04 à l'aide de vis M5 et M3 10mm.
+Visser la pièce 18 avec les murs 01, 02,03 et 04 à l'aide de vis 6 M5 et 7 M3 10mm.
 
 
 
